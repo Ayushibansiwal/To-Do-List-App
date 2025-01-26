@@ -30,4 +30,4 @@ The **Task Manager** is a web-based application designed to help users manage th
 ## Installation and Setup
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/task-manager.git
+   git clone https://github.com/Ayushibansiwal/task-manager.git
